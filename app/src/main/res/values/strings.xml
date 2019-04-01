@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="trueValue">Sì</string>
+    <string name="no">No</string>
+    <string name="nextButton">Prossima>></string>
+    <string name="goodResult">Bravo, corretta!</string>
+    <string name="badResult">Sbagliato, riprova!</string>
+    <string name="question_australia">Canberra \è la capitale dell\'Australia?</string>
+    <string name="question_oceans">L\'oceano Pacifico \è pi\ù grande dell\'Oceano Atlantico?</string>
+    <string name="question_mideast">Il canale di Suez connette il Mar Rosso con l\'Oceano Indiano?</string>
+    <string name="question_africa">Le sorgenti del Nilo sono in Egitto?</string>
+    <string name="question_americas">Il Rio delle Amazzoni \è il fiume pi\ù lungo delle Americhe?</string>
+    <string name="question_asia">Il lago Baikal \è il più antico e profondo lago d\'acqua dolce?</string>
+</resources>
